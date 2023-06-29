@@ -1,4 +1,4 @@
-# DataCollectionStrategiesinCybersecurity
+# InfoSecDataCollectionApproaches
 
 # Cybersecurity Data Archive
 
