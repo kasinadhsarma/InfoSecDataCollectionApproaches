@@ -3,7 +3,6 @@
 # Cybersecurity Data Archive
 
 This repository is a collecting of various cybersecurity data and resources, aimed at helping individuals learn and understand cybersecurity concepts and trends.
-
 ## Description
 
 This project is a public archive of cybersecurity data collected from various sources. It includes research papers, blogs, threat intelligence feeds, and open-source projects. The goal is to provide a comprehensive resource for those who are learning cybersecurity or anyone interested in the field.
